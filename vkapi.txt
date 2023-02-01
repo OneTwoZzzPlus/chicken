@@ -1,7 +1,0 @@
-ЗАПРОС: https://oauth.vk.com/authorize?client_id=51483595&display=page&redirect_uri=https://oauth.vk.com/blank.html&scope=messages&response_type=token&v=5.74
-
-ОТВЕТ:
-https://oauth.vk.com/blank.html#access_token=vk1.a.G8AfNYNr1j4XlGezwyGmeuGhDWUsJIp8GnsthCd42yRRDPD2fGQesz9pkq9V-98pdK0mpJxQ154F99NL9GwTHcJZIzCUUXzdG0jPg7Xa-CxRzGDCexG5ljlSUUozQ2H_wtOy6hT7dazkF0dF69MgoHWLJKWFvg6xB0uhb9U23WqebmsCHbndHUwdAlrBhxIQfJbrFMI2kLK87vsrRt75BA&expires_in=0&user_id=242640177
-
-ТОКЕН:
-vk1.a.G8AfNYNr1j4XlGezwyGmeuGhDWUsJIp8GnsthCd42yRRDPD2fGQesz9pkq9V-98pdK0mpJxQ154F99NL9GwTHcJZIzCUUXzdG0jPg7Xa-CxRzGDCexG5ljlSUUozQ2H_wtOy6hT7dazkF0dF69MgoHWLJKWFvg6xB0uhb9U23WqebmsCHbndHUwdAlrBhxIQfJbrFMI2kLK87vsrRt75BA
