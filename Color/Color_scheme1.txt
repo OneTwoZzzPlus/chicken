@@ -1,0 +1,25 @@
+https://coolors.co/80a1c1-eee3ab-d9cfc1-a77e58-ba3f1d
+
+/* CSV */
+80a1c1,eee3ab,d9cfc1,a77e58,ba3f1d
+
+/* With # */
+#80a1c1, #eee3ab, #d9cfc1, #a77e58, #ba3f1d
+
+/* Array */
+["80a1c1","eee3ab","d9cfc1","a77e58","ba3f1d"]
+
+/* Object */
+{"Air Superiority Blue":"80a1c1","Medium Champagne":"eee3ab","Bone":"d9cfc1","Cafe Au Lait":"a77e58","Rust":"ba3f1d"}
+
+/* Extended Array */
+[{"name":"Air Superiority Blue","hex":"80a1c1","rgb":[128,161,193],"cmyk":[34,17,0,24],"hsb":[210,34,76],"hsl":[210,34,63],"lab":[65,-4,-20]},{"name":"Medium Champagne","hex":"eee3ab","rgb":[238,227,171],"cmyk":[0,5,28,7],"hsb":[50,28,93],"hsl":[50,66,80],"lab":[90,-5,29]},{"name":"Bone","hex":"d9cfc1","rgb":[217,207,193],"cmyk":[0,5,11,15],"hsb":[35,11,85],"hsl":[35,24,80],"lab":[84,1,8]},{"name":"Cafe Au Lait","hex":"a77e58","rgb":[167,126,88],"cmyk":[0,25,47,35],"hsb":[29,47,65],"hsl":[29,31,50],"lab":[56,11,27]},{"name":"Rust","hex":"ba3f1d","rgb":[186,63,29],"cmyk":[0,66,84,27],"hsb":[13,84,73],"hsl":[13,73,42],"lab":[44,48,46]}]
+
+/* XML */
+<palette>
+  <color name="Air Superiority Blue" hex="80a1c1" r="128" g="161" b="193" />
+  <color name="Medium Champagne" hex="eee3ab" r="238" g="227" b="171" />
+  <color name="Bone" hex="d9cfc1" r="217" g="207" b="193" />
+  <color name="Cafe Au Lait" hex="a77e58" r="167" g="126" b="88" />
+  <color name="Rust" hex="ba3f1d" r="186" g="63" b="29" />
+</palette>
